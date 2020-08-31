@@ -3,12 +3,13 @@ My C/C++ practices
 
 
 ## Practice
-1. [variables.c](variables.c): initial a variable.
-2. [calc.cpp](calc.cpp): simple calculation/ printf & scanf
-3. [passOrNot.cpp](passOrNot.cpp): If else
-4. [multiplication.cpp](multiplication.cpp): for loops
-
-
+1. [variables](variables.c): initial a variable.
+2. [calc](calc.cpp): simple calculation/ printf & scanf
+3. [passOrNot](passOrNot.cpp): If else
+4. [multiplication](multiplication.cpp): for loops
+5. [arrays](arrays.cpp): initialize an 1D array, and put something into it.
+6. [array_sort](array_sort.cpp): sort an 1D array by a basic way. O(n^2).
+7. [ary2d](ary2d.cpp): 2D array, sum of array, avg of array.
 
 ## Notes
 
