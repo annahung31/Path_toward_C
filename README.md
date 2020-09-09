@@ -11,8 +11,7 @@ My C/C++ practices
 6. [array_sort](array_sort.cpp): sort an 1D array by a basic way. O(n^2).
 7. [ary2d](ary2d.cpp): 2D array, sum of array, avg of array.
 8. [vectors](vectors.cpp): using `<vector>` to build a dynamic array.
-
-
+9. [priority_queue](priority_queue.cpp): the usage of `priority_queue`. Output biggest or output smallest.  
 
 
 ## Notes
@@ -22,7 +21,6 @@ My C/C++ practices
 * https://ithelp.ithome.com.tw/articles/10221777 
 
 
-### Lesson 1: Variable
-* 先宣告，再使用： int num =3 。先跟系統要空間，在放東西進去。
+
 
 
